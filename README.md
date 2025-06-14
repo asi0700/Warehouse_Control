@@ -37,7 +37,7 @@
    git clone https://github.com/your-username/warehouse-control-site.git
    ```
 2. Откройте `index.html` в браузере или просто перейдите по ссылке .
-3. 
+3. [ссылка на сайт!](https://asi0700.github.io/Warehouse_Control/index.html)
 
 ## 📬 Обратная связь
 
